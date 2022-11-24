@@ -16,7 +16,7 @@ I am a Data Analyst / Python developer and I love programming and data managemen
 <br/>
 <hr/>
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/TObbUke0z8Mo/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114177420/203752317-2a7ba44d-7b14-4c58-a187-9c8688c9e886.gif" width="360px"/>
 
 ### 🧐 More About Me
 
