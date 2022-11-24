@@ -42,7 +42,7 @@ I am a Data Analyst / Python developer and I love programming and data managemen
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AdrianCiges&theme=dark&show_icons=true" width="400px" height="220px"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pombo7676&theme=dark&show_icons=true" width="400px" height="220px"/>
 <img align="right" alt="GIF"
      </p>
 
