@@ -10,7 +10,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
-I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a Data Analytics bootcamp at Ironhack and now I am looking for new challenges 🤓. I'm an industrial engineer and amateur footballer and padel player. I love tasting new places, as I consider myself quite a foodie, sushi specifically drives my crazy...I love it.
+I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a Data Analytics bootcamp at Ironhack and now I am looking for new challenges 🤓. I'm an Industrial Engineer and amateur footballer and padel player. I love tasting new places, as I consider myself quite a foodie, sushi specifically drives my crazy...I love it.
 
 <br/>
 <br/>
