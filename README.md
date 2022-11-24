@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-  Welcome to Olmo Corell's profile!
+  Welcome to Iñigo Larrea's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
