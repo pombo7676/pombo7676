@@ -30,8 +30,8 @@ I am a Data Analyst / Python developer and I love programming and data managemen
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pombo7676&theme=dark&show_icons=true" width="400px" height="220px"/>
-<img align="right" alt="GIF"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pombo7676&theme=dark&show_icons=true" width="400px" height="220px"/>
+<img align="center" alt="GIF"
 </p>
 
 ### 🛠 Languages and Tools...
