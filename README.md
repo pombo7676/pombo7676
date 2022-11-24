@@ -32,9 +32,9 @@ I am a Data Analyst / Python developer and I love programming and data managemen
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pombo7676&theme=dark&show_icons=true" width="400px" height="220px"/>
 </p>
-
+<p align="center">
 ### 🛠 Languages and Tools...
-
+</p>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
