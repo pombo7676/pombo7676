@@ -43,4 +43,3 @@ I am a Data Analyst / Python developer and I love programming and data managemen
 </p>
 
 ### 👇🏻 Checkout My Projects 
-%23AF34C9
