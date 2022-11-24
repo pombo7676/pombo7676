@@ -10,8 +10,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
-I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a bootcamp and soon after I was the teacher 🤓. I'm a musician 🎸 and scuba diver 🤿 and I love travelling by van 🚘 and being with my greyhound 🐕. I have a colourful brain 🧠 and a lot of energy.
-I'm very creative and I have a project on neural networks and abstract art. I'm always on the rocket 🚀
+I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a Data Analytics bootcamp at Ironhack and now I am looking for new challenges 🤓. I'm an industrial engineer and amateur footballer and padel player. I love tasting new places, as I consider myself quite a foodie, sushi specifically drives my crazy...I love it.
+
 <br/>
 <br/>
 <hr/>
