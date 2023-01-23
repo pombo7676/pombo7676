@@ -41,6 +41,8 @@ I am a Data Analyst / Python developer and I love programming and data managemen
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/ETL.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
 </p>
 
 
