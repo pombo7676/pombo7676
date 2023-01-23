@@ -39,9 +39,14 @@ I am a Data Analyst / Python developer and I love programming and data managemen
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/ETL.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/Pandas.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/MySQL.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/PowerBI.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/Tableau.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/pombo7676/pombo7676/blob/main/SVG/ETL.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  
 
 </p>
 
