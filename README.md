@@ -20,11 +20,11 @@ I am a Data Analyst / Python developer and I love programming and data managemen
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; I’m currently working on [**Myself**](www.linkedin.com/in/inigo-larrea-pombo)
+- 🔭 &nbsp; I’m currently working on [**Myself**](https://www.linkedin.com/in/inigo-larrea-pombo/)
 - 🌱 &nbsp; I’m currently learning Data Analytics and Business Intelligence
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pombo7676?tab=repositories)
 - 💬 &nbsp; Ask me about ANYTHING (Data, sports, cars, travel, restaurants, music...), I will feel happy to establish a nice chat;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/inigo-larrea-pombo)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/inigo-larrea-pombo/)
 - 📚 &nbsp; When I am free, I love to explore new gastronomic experiences, hang on with friends and rage on Call of Duty
 
 <br>
